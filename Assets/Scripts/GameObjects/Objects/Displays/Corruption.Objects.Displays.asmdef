@@ -1,0 +1,21 @@
+{
+    "name": "Corruption.Objects.Displays",
+    "rootNamespace": "Corruption.Objects.Displays",
+    "references": [
+        "GUID:472192c1721e22f47bb012176563b538",
+        "GUID:686af0320c9051c48bc1941ad942a2d0",
+        "GUID:2bfdfbdb5b076e84c8e7100fb1415793",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:1a479710554e8d94ba25c8a66ac9bfce",
+        "GUID:63c90326a56ed4b4ab5847cc6bf7184e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

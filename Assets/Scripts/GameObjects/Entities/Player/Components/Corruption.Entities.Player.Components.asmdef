@@ -1,0 +1,21 @@
+{
+    "name": "Corruption.Entities.Player.Components",
+    "rootNamespace": "Corruption.Entities.Player.Components",
+    "references": [
+        "GUID:472192c1721e22f47bb012176563b538",
+        "GUID:2bfdfbdb5b076e84c8e7100fb1415793",
+        "GUID:da3250e3b1fd7d74e8be62a1f6f98081",
+        "GUID:1f73150e99707b84d8328d9b8b72c09f",
+        "GUID:15bd69ea871153d48bec0cc74b20630a",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

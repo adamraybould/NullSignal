@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c772a359d79c95b47aa94da4919b000d, type: 3}
+  m_Name: HF_6831 (Star)
+  m_EditorClassIdentifier: 
+  m_name: HF 6831
+  type: 0
+  m_bodyMaterial: {fileID: 2100000, guid: 91091a388158e9b42b5baf008e279923, type: 2}
+  m_starType: 6
+  m_classification: 8
+  m_solarMass: 87

@@ -1,0 +1,18 @@
+{
+    "name": "NullSignal.Teleportation",
+    "rootNamespace": "NullSignal.Teleportation",
+    "references": [
+        "GUID:472192c1721e22f47bb012176563b538",
+        "GUID:d525ad6bd40672747bde77962f1c401e",
+        "GUID:9034b949e871a7c4ea726ac2c35222f0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Corruption.Utility",
+    "rootNamespace": "Corruption.Utility",
+    "references": ["GUID:472192c1721e22f47bb012176563b538"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

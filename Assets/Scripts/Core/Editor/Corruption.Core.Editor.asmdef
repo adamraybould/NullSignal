@@ -1,0 +1,18 @@
+{
+    "name": "Corruption.Core.Editor",
+    "rootNamespace": "Corruption.Core.Editor",
+    "references": [
+        "GUID:1a479710554e8d94ba25c8a66ac9bfce",
+        "GUID:8bdf818560f9ae14687b2d12b1d3eac2",
+        "GUID:472192c1721e22f47bb012176563b538"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

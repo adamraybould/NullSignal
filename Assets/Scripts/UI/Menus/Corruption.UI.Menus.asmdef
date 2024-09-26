@@ -1,0 +1,19 @@
+{
+    "name": "Corruption.UI.Menus",
+    "rootNamespace": "Corruption.UI.Menus",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:1a479710554e8d94ba25c8a66ac9bfce",
+        "GUID:da3250e3b1fd7d74e8be62a1f6f98081",
+        "GUID:2bfdfbdb5b076e84c8e7100fb1415793"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

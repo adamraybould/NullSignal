@@ -1,0 +1,20 @@
+{
+    "name": "Corruption.UI.HUD",
+    "rootNamespace": "Corruption.UI.HUD",
+    "references": [
+        "Unity.TextMeshPro",
+        "Corruption.Objects.Astro",
+        "Corruption.Astro",
+        "Corruption.Astro.Bodies",
+        "Corruption.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

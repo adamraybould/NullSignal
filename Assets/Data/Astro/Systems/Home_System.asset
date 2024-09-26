@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137e4f35d624dd744ac43681b2748a2f, type: 3}
+  m_Name: Home_System
+  m_EditorClassIdentifier: 
+  m_sourceDistance: 1
+  m_sourceSize: 1
+  m_sourceColor: {r: 0.4774372, g: 1, b: 0.4198113, a: 1}
+  m_name: Home
+  m_stars:
+  - m_body: {fileID: 11400000, guid: e3304471c4ed88f40883df3ce55118f5, type: 2}
+    m_orbitParameters:
+      m_orbitSpeed: 0
+      m_radiusCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 0
+        m_PostInfinity: 0
+        m_RotationOrder: 4
+      m_angleCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 0
+        m_PostInfinity: 0
+        m_RotationOrder: 4
+    m_distanceFromPrimary: 0
+    m_bodyScale: 1
+    m_orbitingBodies:
+    - m_body: {fileID: 11400000, guid: 376fb9fa358bbde47b1b1469c20a6e71, type: 2}
+      m_orbitParameters:
+        m_orbitSpeed: 10
+        m_radiusCurve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 0
+          m_PostInfinity: 0
+          m_RotationOrder: 4
+        m_angleCurve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 0
+          m_PostInfinity: 0
+          m_RotationOrder: 4
+      m_distanceFromPrimary: 3
+      m_bodyScale: 0.5
+      m_orbitingBodies: []

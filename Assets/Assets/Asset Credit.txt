@@ -1,0 +1,6 @@
+Player Footsteps: Footstep_Metal.wav by FallujahQc -- https://freesound.org/s/403162/ -- License: Attribution 3.0
+Various Sound Effects - ZapSplat
+
+-- Icons --
+Satellite Icon (Credit to Lorc) - https://game-icons.net/1x1/lorc/sattelite.html
+Satellite Communication Icon (Credit to Delapouite) - https://game-icons.net/1x1/delapouite/satellite-communication.html
